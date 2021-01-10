@@ -24,7 +24,7 @@ h1 span:nth-child(1) {
   .search-bar {
       width: 500px;
   }
-input.static {
+img {
    position:absolute;
    top:50px;
    left:10px;
