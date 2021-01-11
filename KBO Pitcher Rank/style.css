@@ -32,6 +32,10 @@ h2 {margin-top: 30px;
 }
 .table-secondary {
     color:MediumBlue;
+    text-align: center;
+}
+.holy {
+  text-align: center;
 }
 #back {
     background-color:#fafafa;
